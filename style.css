@@ -1,0 +1,22 @@
+.indexBg {
+    background-color: rgb(172, 224, 212);
+}
+
+.indexHeading {
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    font-size: 40px;
+}
+
+.indexFlag {
+    text-align: center;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+centerAlign {
+    text-align: center;
+}
